@@ -52,6 +52,9 @@ lista completa do que evitar (nada de "vamos juntos!", emoji forçado,
 - Conteúdo de marketing (posts, SEO, campanhas) salva em `marketing/`
 - Análises, emails e relatórios pontuais salvam em `saidas/`
 - Toda peça visual deve seguir `identidade/design-guide.md`
+- **Push automático:** ao terminar uma edição de arquivo, comitar e dar
+  push sozinho, sem perguntar, no repositório correto (o do `site/` quando
+  a edição for no site; o do workspace nos demais casos). Só avisar depois.
 
 ## Site da Move
 
